@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CORE/CORE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/AddTwoNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/ArrayUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/EscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Farhenite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/GreatestOf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/HELLO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Merge2SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/NumberOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/OddEve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/PalindromeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/PatternUsingEscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/PatternWithoutLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Pattern_ReverseHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Pattern_leftHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Print1stTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SearchElement2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SumOf2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SumOf2diagonalMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/SumOfOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Swap2num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/compoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/datatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/evenOddBitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/pattern_rightHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/positiveNegZEro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/primeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/productOfFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/sumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/userInput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Atharva-Garg16&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Atharva-Garg16/CORE-JAVA-REVISION.git&quot;,
+    &quot;accountId&quot;: &quot;2745030e-6a8c-490f-9cf8-0cf8bdc8cc6c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HcWFDhtwbcIb3SuTGSAcXdM7X3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArrayReverse.executor": "Run",
+    "Application.NumberOccurrence.executor": "Run",
+    "Application.PatternWithoutLogic.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/IdeaProjects/CORE-JAVA-REVISION/.idea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="" />
+      <created>1786167731561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786167731561</updated>
+      <workItem from="1786167732848" duration="1090000" />
+      <workItem from="1786168861584" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
