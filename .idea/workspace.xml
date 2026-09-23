@@ -5,54 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CORE/CORE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/AddTwoNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/ArrayUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Bitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/EscapeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Farhenite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/GreatestOf3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/HELLO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Leap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Merge2SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/NumberOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/OddEve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/PalindromeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/PatternUsingEscapeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/PatternWithoutLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Pattern_ReverseHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Pattern_leftHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Print1stTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SearchElement2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SumOf2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SumOf2diagonalMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/SumOfOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Swap2num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/compoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/datatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/evenOddBitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/pattern_rightHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/positiveNegZEro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/primeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/productOfFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/sumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/src/userInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Basics/Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/AddTwoNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/AddTwoNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/ArrayUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Bitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/EscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/EscapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Farhenite.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Farhenite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Gcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/GreatestOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/GreatestOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/HELLO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Leap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Leap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Merge2SortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/Merge2SortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/NumberOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/NumberOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/OddEve.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/OddEve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/PalindromeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/PalindromeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/PatternUsingEscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/PatternUsingEscapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/PatternWithoutLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/PatternWithoutLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Pattern_ReverseHalf.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Pattern_ReverseHalf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Pattern_leftHalf.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Pattern_leftHalf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Perimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Print1stTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Print1stTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SearchElement2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/SearchElement2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/Sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SumOf2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/SumOf2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SumOf2diagonalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/SumOf2diagonalMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/SumOfOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/SumOfOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Swap2num.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Swap2num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/compoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/compoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/datatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/datatype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/evenOddBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/evenOddBitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/pattern_rightHalf.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/pattern_rightHalf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/positiveNegZEro.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/positiveNegZEro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/primeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/primeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/productOfFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/productOfFloat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/sumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/arrays/src/sumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/userInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Basics/src/userInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,40 +94,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.ArrayReverse.executor": "Run",
-    "Application.NumberOccurrence.executor": "Run",
-    "Application.PatternWithoutLogic.executor": "Run",
-    "Application.SimpleInterest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hp/IdeaProjects/CORE-JAVA-REVISION/.idea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AddTwoNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternWithoutLogic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/IdeaProjects/CORE-JAVA-REVISION/.idea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE\src" />
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE\arrays\src" />
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE\Chapter2\src" />
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE\chapter 2\src" />
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION\CORE" />
+      <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -143,6 +155,19 @@
       <updated>1786167731561</updated>
       <workItem from="1786167732848" duration="1090000" />
       <workItem from="1786168861584" duration="82000" />
+      <workItem from="1786796170634" duration="3000" />
+      <workItem from="1787419145074" duration="630000" />
+      <workItem from="1787708493303" duration="554000" />
+      <workItem from="1787792733936" duration="407000" />
+      <workItem from="1788115137361" duration="270000" />
+      <workItem from="1789018631169" duration="2160000" />
+      <workItem from="1789326032302" duration="786000" />
+      <workItem from="1789552565832" duration="986000" />
+      <workItem from="1789961793260" duration="692000" />
+      <workItem from="1789971296439" duration="499000" />
+      <workItem from="1790136894052" duration="1357000" />
+      <workItem from="1790146270355" duration="2098000" />
+      <workItem from="1790148407728" duration="151000" />
     </task>
     <servers />
   </component>
