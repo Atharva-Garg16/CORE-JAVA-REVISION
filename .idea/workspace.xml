@@ -4,10 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="restructured">
-      <change afterPath="$PROJECT_DIR$/CORE/arrays/src/DeletionOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/arrays/src/HetrogeneousArray.java" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="heterogeneous arrays in java">
+      <change afterPath="$PROJECT_DIR$/CORE/Basics/src/EnhancedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Basics/src/Switch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Basics/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/MATH/MATH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/MATH/src/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/OOPS1/OOPS1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/OOPS1/src/Code_Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/OOPS1/src/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/OOPS1/src/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/OOPS1/src/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/AddTwoNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/ArithmeticOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Armstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/ArrayUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Bitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/EscapeSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Farhenite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Gcd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/GreatestOf3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/HELLO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Leap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Merge2SortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/NumberOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/OddEve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/PalindromeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/PatternUsingEscapeSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/PatternWithoutLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Pattern_ReverseHalf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Pattern_leftHalf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Perimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Print1stTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SearchElement2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SimpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SumOf2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SumOf2diagonalMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/SumOfOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Swap2num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/compoundInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/datatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/evenOddBitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/p1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/pattern_rightHalf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/positiveNegZEro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/primeOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/productOfFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/sumOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CORE/userInput.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +110,18 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.AddTwoNums.executor": "Run",
     "Application.ArrayReverse.executor": "Run",
+    "Application.CSE_DEPTTest.executor": "Run",
+    "Application.Code_Blocks_Test.executor": "Run",
     "Application.DeletionOfElement.executor": "Run",
     "Application.HetrogeneousArray.executor": "Run",
     "Application.NumberOccurrence.executor": "Run",
     "Application.PatternWithoutLogic.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.p1.executor": "Run",
+    "Application.studentTest.executor": "Run",
     "Application.test.executor": "Run",
+    "Application.testBox.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,7 +140,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,7 +185,8 @@
       <workItem from="1789971296439" duration="499000" />
       <workItem from="1790136894052" duration="1357000" />
       <workItem from="1790146270355" duration="2098000" />
-      <workItem from="1790148407728" duration="1948000" />
+      <workItem from="1790148407728" duration="2283000" />
+      <workItem from="1790321726912" duration="7094000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -133,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790153532518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="heterogeneous arrays in java">
+      <option name="closed" value="true" />
+      <created>1790158913146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790158913146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +223,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restructured" />
-    <option name="LAST_COMMIT_MESSAGE" value="restructured" />
+    <MESSAGE value="heterogeneous arrays in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="heterogeneous arrays in java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,5 +235,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
