@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="changed from oops1 to encapsulation">
-      <change afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/FinalKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/MATH/src/DieGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Strings/src/BuilderAndBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Strings/src/first.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="Final keyword , StringBuffer , Builder ,etc">
+      <change afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/immutableClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/Class_and_object.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/src/Code_Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/Code_Blocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/src/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/src/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/Third.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/Encapsulation/src/toStringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/toStringMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +136,7 @@
       <workItem from="1790146270355" duration="2098000" />
       <workItem from="1790148407728" duration="2283000" />
       <workItem from="1790321726912" duration="10289000" />
-      <workItem from="1790425155538" duration="6723000" />
+      <workItem from="1790425155538" duration="8417000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -188,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790398641744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final keyword , StringBuffer , Builder ,etc">
+      <option name="closed" value="true" />
+      <created>1790449473047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449473047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +209,8 @@
     <MESSAGE value="encapsulation , Switch case , ternary operator" />
     <MESSAGE value="recursion , do while, for each , Math class more functions" />
     <MESSAGE value="changed from oops1 to encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed from oops1 to encapsulation" />
+    <MESSAGE value="Final keyword , StringBuffer , Builder ,etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final keyword , StringBuffer , Builder ,etc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
