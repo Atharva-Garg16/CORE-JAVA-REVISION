@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/CORE/Basics/Basics.iml" filepath="$PROJECT_DIR$/CORE/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/CORE.iml" filepath="$PROJECT_DIR$/CORE/CORE.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/src/.idea/CORE-JAVA-REVISION.iml" filepath="$PROJECT_DIR$/CORE/src/.idea/CORE-JAVA-REVISION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/MATH/MATH.iml" filepath="$PROJECT_DIR$/CORE/MATH/MATH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CORE/OOPS1/OOPS1.iml" filepath="$PROJECT_DIR$/CORE/OOPS1/OOPS1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/arrays/arrays.iml" filepath="$PROJECT_DIR$/CORE/arrays/arrays.iml" />
     </modules>
   </component>
