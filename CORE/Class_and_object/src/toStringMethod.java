@@ -12,14 +12,24 @@ class Dog{
     }
     // overriding toString()
     // by default return HashCode followed by @
-
+/**Implemented by String concatenation*/
+//    @Override
+//    public String toString() {
+//        return "Dog{" +
+//                "name='" + name + '\'' +
+//                ", age=" + age +
+//                ", color='" + color + '\'' +
+//                '}';
+//    }
+    /**Implemented by StringBuilder*/
     @Override
     public String toString() {
-        return "Dog{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", color='" + color + '\'' +
-                '}';
+        final StringBuilder sb = new StringBuilder("Dog{");
+        sb.append("age=").append(age);
+        sb.append(", name='").append(name).append('\'');
+        sb.append(", color='").append(color).append('\'');
+        sb.append('}');
+        return sb.toString();
     }
 }
 class TestDog{
