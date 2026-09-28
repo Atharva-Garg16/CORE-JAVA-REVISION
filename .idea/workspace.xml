@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="Final keyword , StringBuffer , Builder ,etc">
-      <change afterPath="$PROJECT_DIR$/CORE/Class_and_object/src/immutableClass.java" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="immutable class">
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/Company/AccessEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/Company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/Test2/VerifyOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/com/Test1/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/com/Test1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/com/example/geometry/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/com/example/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Encapsulation/src/com/example/utils/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/In1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/equals/EqualsAndHashcodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/equals/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Strings/Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,14 +65,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AccessEmployee.executor": "Run",
     "Application.AddTwoNums.executor": "Run",
     "Application.ArrayReverse.executor": "Run",
+    "Application.BankUser.executor": "Run",
     "Application.BuilderAndBuffer.executor": "Run",
     "Application.CSE_DEPTTest.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.Code_Blocks_Test.executor": "Run",
     "Application.DeletionOfElement.executor": "Run",
     "Application.DieGame.executor": "Run",
+    "Application.EqualsAndHashcodeTest.executor": "Run",
     "Application.HetrogeneousArray.executor": "Run",
+    "Application.In1.executor": "Run",
+    "Application.MotorCycle.executor": "Run",
     "Application.NumberOccurrence.executor": "Run",
     "Application.PatternWithoutLogic.executor": "Run",
     "Application.Rec_string_palindrome.executor": "Run",
@@ -65,12 +86,14 @@
     "Application.SimpleInterest.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDog.executor": "Run",
+    "Application.TwoWheeler.executor": "Run",
     "Application.do_while.executor": "Run",
     "Application.first.executor": "Run",
     "Application.p1.executor": "Run",
     "Application.studentTest.executor": "Run",
     "Application.test.executor": "Run",
     "Application.testBox.executor": "Run",
+    "Application.use.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -105,6 +128,20 @@
       <recent name="C:\Users\hp\IdeaProjects\CORE-JAVA-REVISION" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="MotorCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MotorCycle" />
+      <module name="Inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MotorCycle" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -136,7 +173,10 @@
       <workItem from="1790146270355" duration="2098000" />
       <workItem from="1790148407728" duration="2283000" />
       <workItem from="1790321726912" duration="10289000" />
-      <workItem from="1790425155538" duration="8417000" />
+      <workItem from="1790425155538" duration="9514000" />
+      <workItem from="1790504968376" duration="7974000" />
+      <workItem from="1790535564533" duration="1164000" />
+      <workItem from="1790588019311" duration="5040000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -186,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790449473047</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="immutable class">
+      <option name="closed" value="true" />
+      <created>1790451842834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1790451842834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +258,8 @@
     <MESSAGE value="recursion , do while, for each , Math class more functions" />
     <MESSAGE value="changed from oops1 to encapsulation" />
     <MESSAGE value="Final keyword , StringBuffer , Builder ,etc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final keyword , StringBuffer , Builder ,etc" />
+    <MESSAGE value="immutable class" />
+    <option name="LAST_COMMIT_MESSAGE" value="immutable class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
