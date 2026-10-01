@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="encapsulation">
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Library/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Library/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Library/libraryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Non_Static_inner_class/ArrayOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Person/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/Static_inner_class/ArrayOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Inheritance/src/nested/Car.java" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="inheritance , nested class">
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/Abstraction Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Abstract_class/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Abstract_class/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Abstract_method/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Abstract_method/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Abstract_method/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Chidiya/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Chidiya/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Chidiya/bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Chidiya/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/InterFace/LandVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/InterFace/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/InterFace/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/SHape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/SHape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/SHape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/SHape/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +89,7 @@
     &quot;Application.Recurse.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestDog.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoWheeler.executor&quot;: &quot;Run&quot;,
     &quot;Application.do_while.executor&quot;: &quot;Run&quot;,
@@ -158,7 +170,10 @@
       <workItem from="1790588019311" duration="5040000" />
       <workItem from="1790619571663" duration="647000" />
       <workItem from="1790723720695" duration="3767000" />
-      <workItem from="1790727630056" duration="354000" />
+      <workItem from="1790727630056" duration="1010000" />
+      <workItem from="1790753089239" duration="26000" />
+      <workItem from="1790763304736" duration="3068000" />
+      <workItem from="1790855718178" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -224,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790619600352</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="inheritance , nested class">
+      <option name="closed" value="true" />
+      <created>1790728007321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1790728007322</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +273,8 @@
     <MESSAGE value="Final keyword , StringBuffer , Builder ,etc" />
     <MESSAGE value="immutable class" />
     <MESSAGE value="encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="encapsulation" />
+    <MESSAGE value="inheritance , nested class" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance , nested class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
