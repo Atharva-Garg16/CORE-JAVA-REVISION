@@ -1,4 +1,4 @@
-package Method_Overriding;
+package Upasting_use;
 
 public class Test {
     static void method(Vehicle vehicle) {
