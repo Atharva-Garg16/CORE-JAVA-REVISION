@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="method and constructor overloading and overriding">
-      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Super_keyword/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Abstraction Inheritance/src/Super_keyword/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Basics/src/Value_Reference/passByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/Basics/src/Value_Reference/passByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Final_keyword/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Final_keyword/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/polymorphism/src/overrideMethod/dog.java" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="pass by value and reference, final keyword, overriding ,etc">
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/File Exception Handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/ArrayIndexException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Finally_block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/ThrowsAndThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/TryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/customException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/polymorphism/src/Method_Overriding/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Upasting_use/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/polymorphism/src/Method_Overriding/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Upasting_use/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/polymorphism/src/Method_Overriding/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Upasting_use/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/polymorphism/src/Method_Overriding/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Upasting_use/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/polymorphism/src/Method_Overriding/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/polymorphism/src/Upasting_use/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +43,9 @@
     &quot;accountId&quot;: &quot;2745030e-6a8c-490f-9cf8-0cf8bdc8cc6c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -70,8 +63,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.AccessEmployee.executor": "Run",
     "Application.AddTwoNums.executor": "Run",
+    "Application.ArrayIndexException.executor": "Run",
     "Application.ArrayReverse.executor": "Run",
     "Application.ArrayTest.executor": "Run",
+    "Application.BankAccount.executor": "Run",
     "Application.BankUser.executor": "Run",
     "Application.BuilderAndBuffer.executor": "Run",
     "Application.CSE_DEPTTest.executor": "Run",
@@ -81,6 +76,8 @@
     "Application.DeletionOfElement.executor": "Run",
     "Application.DieGame.executor": "Run",
     "Application.EqualsAndHashcodeTest.executor": "Run",
+    "Application.Exception_Stack.executor": "Run",
+    "Application.Finally_block.executor": "Run",
     "Application.HetrogeneousArray.executor": "Run",
     "Application.In1.executor": "Run",
     "Application.Method_Overload.executor": "Run",
@@ -93,6 +90,8 @@
     "Application.Test.executor": "Run",
     "Application.TestClass.executor": "Run",
     "Application.TestDog.executor": "Run",
+    "Application.ThrowsAndThrow.executor": "Run",
+    "Application.TryCatchBlock.executor": "Run",
     "Application.TwoWheeler.executor": "Run",
     "Application.do_while.executor": "Run",
     "Application.first.executor": "Run",
@@ -183,7 +182,8 @@
       <workItem from="1790857036431" duration="4513000" />
       <workItem from="1790883854941" duration="280000" />
       <workItem from="1790914457022" duration="3865000" />
-      <workItem from="1790955160557" duration="3593000" />
+      <workItem from="1790955160557" duration="9125000" />
+      <workItem from="1791008063568" duration="5466000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -273,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790884107461</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pass by value and reference, final keyword, overriding ,etc">
+      <option name="closed" value="true" />
+      <created>1790964352639</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1790964352639</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +310,8 @@
     <MESSAGE value="inheritance , nested class" />
     <MESSAGE value="abstraction" />
     <MESSAGE value="method and constructor overloading and overriding" />
-    <option name="LAST_COMMIT_MESSAGE" value="method and constructor overloading and overriding" />
+    <MESSAGE value="pass by value and reference, final keyword, overriding ,etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass by value and reference, final keyword, overriding ,etc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

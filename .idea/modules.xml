@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/CORE/src/.idea/CORE-JAVA-REVISION.iml" filepath="$PROJECT_DIR$/CORE/src/.idea/CORE-JAVA-REVISION.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/Class_and_object/Class_and_object.iml" filepath="$PROJECT_DIR$/CORE/Class_and_object/Class_and_object.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/CORE/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CORE/File Exception Handling/File Exception Handling.iml" filepath="$PROJECT_DIR$/CORE/File Exception Handling/File Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/CORE/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/MATH/MATH.iml" filepath="$PROJECT_DIR$/CORE/MATH/MATH.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/Strings/Strings.iml" filepath="$PROJECT_DIR$/CORE/Strings/Strings.iml" />
