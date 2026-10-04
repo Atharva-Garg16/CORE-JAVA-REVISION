@@ -1,3 +1,5 @@
+package Exception_Handling;
+
 public class Exception_Stack
 {
     static void b(){
@@ -14,7 +16,7 @@ public class Exception_Stack
     }
 }
 /**Exception in thread "main" java.lang.ArithmeticException: / by zero
- at Exception_Stack.b(Exception_Stack.java:4)
- at Exception_Stack.a(Exception_Stack.java:7)
- at Exception_Stack.main(Exception_Stack.java:10)*/
+ at Exception_Handling.Exception_Stack.b(Exception_Handling.Exception_Stack.java:4)
+ at Exception_Handling.Exception_Stack.a(Exception_Handling.Exception_Stack.java:7)
+ at Exception_Handling.Exception_Stack.main(Exception_Handling.Exception_Stack.java:10)*/
 // Sabse pahle usne b ko dekha ki wo kisi try catch block mai hai and than go back to function called..... and finally to main method?

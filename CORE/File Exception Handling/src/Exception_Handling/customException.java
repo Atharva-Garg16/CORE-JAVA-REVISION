@@ -1,3 +1,5 @@
+package Exception_Handling;
+
 // 1. Define the custom exception
  class InsufficientFundsException extends Exception {
 

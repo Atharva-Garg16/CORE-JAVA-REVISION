@@ -1,3 +1,5 @@
+package Exception_Handling;
+
 import java.util.Scanner;
 
 public class Finally_block {
