@@ -1,21 +1,27 @@
 import java.util.Scanner;
 
 public class test {
-    static void main() {
-//        int i=0b101;
-//        System.out.println(i);
-//        int[]ar={1,2,3,4,5,6,7,8,9};
-//        int[]ar1=new int[ar.length];
-//        ar1=ar;
-//        ar1[2]=67;
-//        for (int j = 0; j < ar.length; j++) {
-//            System.out.print(" "+ar[j]);
-//            // shallow copy
-        // }
-        final int A=1;
-        byte n=A;
-        System.out.println(n);
+   int k;
+   private String name;
+
+   public test(String name) {
+      this.name = name;
+   }
+   void setK(int k) {
+      this.k = 78;
+   }
 
 
-    }
+}
+void main(){
+test T1=new test("chitu");
+T1.k=5;
+T1.setK(T1.k);
+System.out.println(T1.k);
+int a=10;
+System.out.println(a);// ???
+
+System.out.println(T1.name);
+//System.out.println(T1.changeName());
+//System.out.println(T1.name);
 }

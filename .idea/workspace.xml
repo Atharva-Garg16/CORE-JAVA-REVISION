@@ -4,20 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/File_Handling/Read_From_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/File_Handling/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/File_Handling/Writing_Best_way.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/File_Handling/Writing_To_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tableOf16.txt" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="exception handling, file handling">
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/collection framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Collections_utility/Collections_utilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/OldImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/array_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Set_Interface/newSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/TestQueue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/UtilityPrint/printUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/VarArgs/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/wrapperClasses/Wc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/ArrayIndexException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/ArrayIndexException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/Exception_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/Finally_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/Finally_block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/ThrowsAndThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/ThrowsAndThrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/TryCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/TryCatchBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/File Exception Handling/src/customException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/File Exception Handling/src/Exception_Handling/customException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
     "Application.CSE_DEPTTest.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Code_Blocks_Test.executor": "Run",
+    "Application.Collections_utilityTest.executor": "Run",
     "Application.ConstructorOverload.executor": "Run",
     "Application.DeletionOfElement.executor": "Run",
     "Application.DieGame.executor": "Run",
@@ -87,6 +87,7 @@
     "Application.Method_Overload.executor": "Run",
     "Application.MotorCycle.executor": "Run",
     "Application.NumberOccurrence.executor": "Run",
+    "Application.OldImplementation.executor": "Run",
     "Application.PatternWithoutLogic.executor": "Run",
     "Application.Read_From_file.executor": "Run",
     "Application.Rec_string_palindrome.executor": "Run",
@@ -99,10 +100,13 @@
     "Application.TryCatchBlock.executor": "Run",
     "Application.TwoWheeler.executor": "Run",
     "Application.UserInput.executor": "Run",
+    "Application.Wc1.executor": "Run",
     "Application.Writing_Best_way.executor": "Run",
     "Application.Writing_To_File.executor": "Run",
+    "Application.array_List.executor": "Run",
     "Application.do_while.executor": "Run",
     "Application.first.executor": "Run",
+    "Application.newSet.executor": "Run",
     "Application.p1.executor": "Run",
     "Application.passByReference.executor": "Run",
     "Application.passByValue.executor": "Run",
@@ -193,7 +197,10 @@
       <workItem from="1790955160557" duration="9125000" />
       <workItem from="1791008063568" duration="5593000" />
       <workItem from="1791051369536" duration="294000" />
-      <workItem from="1791117830921" duration="5662000" />
+      <workItem from="1791117830921" duration="6468000" />
+      <workItem from="1791252789810" duration="2259000" />
+      <workItem from="1791281029809" duration="7263000" />
+      <workItem from="1791347266734" duration="2816000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -299,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791035508655</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="exception handling, file handling">
+      <option name="closed" value="true" />
+      <created>1791131672581</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791131672582</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +345,8 @@
     <MESSAGE value="method and constructor overloading and overriding" />
     <MESSAGE value="pass by value and reference, final keyword, overriding ,etc" />
     <MESSAGE value="exception handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
+    <MESSAGE value="exception handling, file handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception handling, file handling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
