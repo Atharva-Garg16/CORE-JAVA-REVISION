@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="exception handling, file handling">
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/collection framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Collections_utility/Collections_utilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/OldImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/array_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Set_Interface/newSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/TestQueue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/UtilityPrint/printUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/VarArgs/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/wrapperClasses/Wc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="70e1bf5b-1a5c-4e04-b7bf-735fa73b9b40" name="Changes" comment="Collections class, queue interface , set interface">
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Comparator/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Enums/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Enums/TestingDaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Enums/TestingEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Enums/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Generic_class/Generic_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/FreqCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/List/SwapArrListMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/Map_Interface/map_Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CORE/collection framework/src/VarArgs/varArgs2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CORE/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -82,6 +83,7 @@
     "Application.EqualsAndHashcodeTest.executor": "Run",
     "Application.Exception_Stack.executor": "Run",
     "Application.Finally_block.executor": "Run",
+    "Application.FreqCount.executor": "Run",
     "Application.HetrogeneousArray.executor": "Run",
     "Application.In1.executor": "Run",
     "Application.Method_Overload.executor": "Run",
@@ -93,9 +95,12 @@
     "Application.Rec_string_palindrome.executor": "Run",
     "Application.Recurse.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SwapArrListMembers.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestClass.executor": "Run",
     "Application.TestDog.executor": "Run",
+    "Application.TestingDaysOfWeek.executor": "Run",
     "Application.ThrowsAndThrow.executor": "Run",
     "Application.TryCatchBlock.executor": "Run",
     "Application.TwoWheeler.executor": "Run",
@@ -106,6 +111,7 @@
     "Application.array_List.executor": "Run",
     "Application.do_while.executor": "Run",
     "Application.first.executor": "Run",
+    "Application.map_Inter.executor": "Run",
     "Application.newSet.executor": "Run",
     "Application.p1.executor": "Run",
     "Application.passByReference.executor": "Run",
@@ -113,6 +119,7 @@
     "Application.studentTest.executor": "Run",
     "Application.test.executor": "Run",
     "Application.testBox.executor": "Run",
+    "Application.testGeneric_Class.executor": "Run",
     "Application.use.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -200,7 +207,9 @@
       <workItem from="1791117830921" duration="6468000" />
       <workItem from="1791252789810" duration="2259000" />
       <workItem from="1791281029809" duration="7263000" />
-      <workItem from="1791347266734" duration="2816000" />
+      <workItem from="1791347266734" duration="7219000" />
+      <workItem from="1791370315522" duration="918000" />
+      <workItem from="1791415469572" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="restructured">
       <option name="closed" value="true" />
@@ -314,7 +323,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791131672582</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="exception handling, file handling">
+      <option name="closed" value="true" />
+      <created>1791359143058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791359143058</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Collections class, queue interface , set interface">
+      <option name="closed" value="true" />
+      <created>1791359614614</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1791359614614</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +371,8 @@
     <MESSAGE value="pass by value and reference, final keyword, overriding ,etc" />
     <MESSAGE value="exception handling" />
     <MESSAGE value="exception handling, file handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception handling, file handling" />
+    <MESSAGE value="Collections class, queue interface , set interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections class, queue interface , set interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
